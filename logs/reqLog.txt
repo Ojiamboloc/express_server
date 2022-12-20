@@ -1,0 +1,16 @@
+20221219	21:40:13	undefined	GET	undefined	/index
+20221219	21:40:14	undefined	GET	undefined	/css/style.css
+20221219	21:58:20	undefined	GET	undefined	/
+20221219	21:58:20	undefined	GET	undefined	/css/style.css
+20221219	22:09:55	undefined	GET	undefined	/
+20221219	22:09:55	undefined	GET	undefined	/css/style.css
+20221219	22:10:03	undefined	GET	undefined	/css/style.css
+20221219	22:10:33	undefined	GET	undefined	/
+20221219	22:10:58	undefined	GET	undefined	/
+20221219	22:11:24	undefined	GET	undefined	/
+20221219	22:20:45	undefined	GET	undefined	/
+20221219	22:21:35	undefined	GET	undefined	/
+20221219	22:26:08	undefined	GET	undefined	/
+20221219	22:27:24	undefined	GET	undefined	/
+20221219	22:27:24	undefined	GET	undefined	/css/style.css
+20221219	22:27:40	undefined	GET	undefined	/
