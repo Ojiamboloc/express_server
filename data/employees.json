@@ -1,9 +1,9 @@
 [
-    {
+    {"id":1,
         "firstname": "ojiambo",
         "lastname": "felix"
     },
-    {
+    {"id":2,
         "firstname": "felix",
         "lastname": "nambasi"
     }
