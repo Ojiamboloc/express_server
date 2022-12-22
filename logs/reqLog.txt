@@ -29,3 +29,17 @@
 20221221	02:13:45	undefined	GET	undefined	/css/style.css
 20221221	02:13:57	undefined	GET	undefined	/
 20221221	02:13:58	undefined	GET	undefined	/css/style.css
+20221222	02:42:13	undefined	GET	undefined	/employees/1
+20221222	02:42:23	undefined	GET	undefined	/employees
+20221222	02:42:35	undefined	GET	undefined	/employees/2
+20221222	02:42:46	undefined	GET	undefined	/employees/id/1
+20221222	02:42:53	undefined	GET	undefined	/employees/id
+20221222	02:43:00	undefined	GET	undefined	/employees/1
+20221222	02:43:35	undefined	GET	undefined	/employees/1
+20221222	02:43:50	undefined	GET	undefined	/employees/1
+20221222	02:44:14	undefined	GET	undefined	/employees/1
+20221222	03:51:31	undefined	GET	undefined	/employees
+20221222	03:51:38	undefined	GET	undefined	/employees/1
+20221222	03:52:35	undefined	POST	undefined	/employees/
+20221222	03:52:58	undefined	POST	undefined	/employees/
+20221222	03:53:17	undefined	POST	undefined	/employees/
